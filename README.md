@@ -1,5 +1,5 @@
 # qndxx
-start page example : https://h5.cyol.com/special/daxuexi/au4le1xcf3/m.html
+start page example : https://h5.cyol.com/special/daxuexi/***/m.html
 
 
-end image example : https://h5.cyol.com/special/daxuexi/au4le1xcf3/images/end.jpg
+end image example : https://h5.cyol.com/special/daxuexi/***/images/end.jpg
